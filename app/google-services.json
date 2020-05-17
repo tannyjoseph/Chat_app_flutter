@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504680191323",
+    "firebase_url": "https://chatapp-a933b.firebaseio.com",
+    "project_id": "chatapp-a933b",
+    "storage_bucket": "chatapp-a933b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504680191323:android:97c890e794c0ee836d767e",
+        "android_client_info": {
+          "package_name": "com.tania.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504680191323-e9gd2f4b48ecqc8qhsu3loe6d8o6l5p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tania.chatapp",
+            "certificate_hash": "6505bb275572efca48c64d1c03159e3e2e2b4dfd"
+          }
+        },
+        {
+          "client_id": "504680191323-l4boum7qr7d084khhllag14b08v6ropo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMDf4GuzBclHd-463DLGF4VpuYVEVHqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504680191323-l4boum7qr7d084khhllag14b08v6ropo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504680191323-l5qidapmp5kn24hgqdbiqq4u5hobndu5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tania.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
